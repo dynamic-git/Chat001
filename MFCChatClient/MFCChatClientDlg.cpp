@@ -169,6 +169,7 @@ void CMFCChatClientDlg::OnBnClickedConnectBtn()
 	//TRACE("Connect Btn");
 	//MessageBoxW(L"Connect Btn");
 	TRACE("[ChatClient]Connect Btn");
+	TRACE("ha ha");
 }
 
 
